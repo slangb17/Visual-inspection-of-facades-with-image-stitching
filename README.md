@@ -13,3 +13,9 @@ The other program is used to stitch the undistorted images which is seen in **_f
 
 The images can be seen in the [image folder](facade_image_stitcher/images). The images are divided in facades and acquisition pattern. The stitched image, named **_result.jpg_**, can be seen in the same folder as the images.
 
+The repository is made by:
+@amonro18
+@esagda16
+@haar13
+@slangb17
+
