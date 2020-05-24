@@ -1,0 +1,1 @@
+# Visual-inspection-of-facades-with-image-stitching
