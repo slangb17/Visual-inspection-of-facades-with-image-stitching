@@ -1,0 +1,12 @@
+﻿  camera_calibration.cpp
+C:\Users\Simon\Desktop\camera_calibration\camera_calibration\camera_calibration.cpp(35,63): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Simon\Desktop\camera_calibration\camera_calibration\camera_calibration.cpp(35,41): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  camera_calibration.vcxproj -> C:\Users\Simon\Desktop\camera_calibration\x64\Debug\camera_calibration.exe
